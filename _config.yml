@@ -11,7 +11,7 @@ title: LAIR @ NYU
 # Description of the Site
 description: Lab for Autonomous and Intelligent Robotics
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /WhatATheme/assets/images/AUV.jpg
 # Keywords of the Site
 site-keywords: Robotics, AUV, Multi-Robot
 # URL for the Image of custom Favicon
@@ -95,5 +95,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
