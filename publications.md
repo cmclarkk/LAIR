@@ -5,7 +5,7 @@ layout: page
 
 ## Journal Publications
 #### 2021
-* Tail Control Enhances Gliding in Arboreal Lizards: An Integrative Study Using a 3D Geometric Model and Numerical Simulation: Complimentary/Contributed Paper, Clark, J.,  Clark, C.M., Higham T.E., Integrative and Comparative Biology, Volume 61, Issue 2, August 2021, Pages 579–588. [PDF]
+* Tail Control Enhances Gliding in Arboreal Lizards: An Integrative Study Using a 3D Geometric Model and Numerical Simulation, Clark, J.,  Clark, C.M., Higham T.E., Integrative and Comparative Biology, Volume 61, Issue 2, August 2021, Pages 579–588. [PDF]
 
 #### 2019
 * Multi‐AUV motion planning for archeological site mapping and photogrammetric reconstruction, Wu, J., Bingham, R.C., Ting, S., Yager, K., Wood Z.J., Gambin T., Clark C.M., Journal of Field Robotics, August 2019. [PDF]
@@ -47,30 +47,23 @@ Journal of Ocean Technology, Vol. 6, pp. 57-77, 2011. Chow, B., Clark, C.M., T.S
 [PDF]
 
 #### 2010
-* The Malta Cistern Mapping Project: Underwater Robot Mapping and Localization within Ancient Tunnel Systems, Journal of Field Robotics, Vol. 27, pp. 399-411, 2010. White, C., Hiranandani, D., Olstad, C., Buhagiar, K., Gabmin, T., Clark, C.M.
-[PDF]
+* The Malta Cistern Mapping Project: Underwater Robot Mapping and Localization within Ancient Tunnel Systems, White, C., Hiranandani, D., Olstad, C., Buhagiar, K., Gabmin, T., Clark, C.M., Journal of Field Robotics, Vol. 27, pp. 399-411, 2010. [PDF]
 
-* Development of a Systematic and Practical Methodology for the Design of Vehicles Semi-Active Suspension Control System, Vehicle Dynamic Systems, Vol. 48, No. 5, pp. 567-585, May 2010. BolandHemmat, H., Clark, C.M., Golnaraghi, M.F.
-[PDF]
+* Development of a Systematic and Practical Methodology for the Design of Vehicles Semi-Active Suspension Control System, BolandHemmat, H., Clark, C.M., Golnaraghi, M.F., Vehicle Dynamic Systems, Vol. 48, No. 5, pp. 567-585, May 2010. [PDF]
 
-* An Adaptive Niching Genetic Algorithm Approach for Generating Multiple Solutions of Serial Manipulator Inverse Kinematics with Applications to Modular Robots, Robotica, Vol. 28, No. 04, pp. 493-507, 2010. Tabandeh, S., Melek, W., and Clark, C.M.
-[PDF]
+* An Adaptive Niching Genetic Algorithm Approach for Generating Multiple Solutions of Serial Manipulator Inverse Kinematics with Applications to Modular Robots, Tabandeh, S., Melek, W., and Clark, C.M., Robotica, Vol. 28, No. 04, pp. 493-507, 2010. [PDF]
 
 #### 2009
-* Design and Implementation of Markov-Based Lane Localization System, IEEE Transactions on Automation Science Engineering, 2009. Dao T.S., Clark C.M., Huissoon J.P.
+* Design and Implementation of Markov-Based Lane Localization System, Dao T.S., Clark C.M., Huissoon J.P., IEEE Transactions on Automation Science Engineering, 2009. 
 
 #### 2008
-* Reinforcement Learning of Adaptive Longitudinal Control for Dynamic Collaborative Driving, International Journal of Vehicle Information and Communication Systems, Vol. 1, No. 3/4, pp. 208-228, 2008. Ng., L., Clark, C. M., and Huissoon, J. P.
-[PDF]
+* Reinforcement Learning of Adaptive Longitudinal Control for Dynamic Collaborative Driving, Ng., L., Clark, C. M., and Huissoon, J. P., International Journal of Vehicle Information and Communication Systems, Vol. 1, No. 3/4, pp. 208-228, 2008. [PDF]
 
-* Reinforcement Learning of Dynamic Collaborative Driving Part II: Lateral Adaptive Control, International Journal of Vehicle Information and Communication Systems, Vol. 1, No. 3/4, pp. 229-248, 2008. Ng., L., Clark, C. M., and Huissoon, J. P.
-[PDF]
+* Reinforcement Learning of Dynamic Collaborative Driving Part II: Lateral Adaptive Control, Ng., L., Clark, C. M., and Huissoon, J. P., International Journal of Vehicle Information and Communication Systems, Vol. 1, No. 3/4, pp. 229-248, 2008. [PDF]
 
-* Decentralized Robust Control of Modular and Reconfigurable Robots with Harmonic Drive Transmission Systems, Robotica Volume 27, pp. 291-302, June 2008.
-Z. Li, W. Melek, C, Clark [PDF]
+* Decentralized Robust Control of Modular and Reconfigurable Robots with Harmonic Drive Transmission Systems, Z. Li, W. Melek, C. Clark, Robotica Volume 27, pp. 291-302, June 2008. [PDF]
 
-* A Complete and Scalable Strategy for Coordinating Multiple Robots within Roadmaps, IEEE Transactions on Robotics. Vol. 24, No. 2, pp. 283-292, April 2008. 
-Peasgood, M., Clark, C., McPhee, J. [PDF]
+* A Complete and Scalable Strategy for Coordinating Multiple Robots within Roadmaps, Peasgood, M., Clark, C., McPhee, J., IEEE Transactions on Robotics. Vol. 24, No. 2, pp. 283-292, April 2008. [PDF]
 
 #### 2007
 * Markov-Based Lane-Positioning Using Inter-Vehicle Communication, Dao, T.S., Leung, K., Clark, C., Huissoon, J., IEEE Transactions on Intelligent Transportation Systems, Vol 8., No. 4, pp. 641-650, Dec 2007. [PDF]
