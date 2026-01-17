@@ -10,15 +10,13 @@ layout: compress
     {% include navbar.html %}
     <section class="hero is-fullheight">
         <div class="hero-body">
-            <div class="container has-text-centered" id="page-section">
-                <div class="section">
-                    <h1 class="title is-1 is-uppercase has-text-weight-bold">
-                        {{page.title}}
-                    </h1>
-                    <hr class="has-background-black">
-                    <div class="content is-marginless">
-                        {{ content }}
-                    </div>
+            <div class="section">
+                <h1 class="title is-1 is-uppercase has-text-weight-bold">
+                    {{page.title}}
+                </h1>
+                <hr class="has-background-black">
+                <div class="content is-marginless">
+                    {{ content }}
                 </div>
             </div>
         </div>
@@ -26,5 +24,6 @@ layout: compress
     <!--Footer begins here-->
     {% include footer.html %}
 </body>
+
 
 </html>
