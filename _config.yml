@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Christopher Clark
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: /LAIR_Website/assets/images/ClarkIver2.jpg
 # 60 Words About the Author
 author-about: The Lab for Autonomous And Intelligent Robots is a university research lab at NYU that strives to develop new robotics algorithms, ML models, and control systems motivated by in-the-wild applications. Originally focussing on multi-robot systems and motion planning, the lab's work has been applied to marine biology, archaeology, autonomous driving, security systems, and oceanography. The LAIR has travelled with Professor Christopher Clark career and hence has had many home institutions including the University of Waterloo, Cal Poly SLO, Princeton University, Harvey Mudd College, and now NYU.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
@@ -95,6 +95,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
