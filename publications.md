@@ -67,408 +67,385 @@ layout: page
 
 
 ## Conference Publications
-2023
-
-Multi-Robot Expansive Planning and Trajectory Evaluation for Tracking and Localization of Marine Life
+#### 2023
+* Multi-Robot Expansive Planning and Trajectory Evaluation for Tracking and Localization of Marine Life
 SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing — March 2023, Pages 808–815
 Fay, K., Giordano, M., Soto, A., Clark, C.M., Spurgeon, E., Anderson, J., Lowe, C.
 [PDF]
 
-Multi-AUV Marine Life Tracking via Single Transceiver Payloads, C. Herrera, C. Ossa, Y.J. Hwang, D. O'Neill, A. Soto, C. Clark, C. Lowe and M. Espinoza. The 22nd International Conference on Autonomous Agents and Multiagent Systems, Workshop on Autonomous Robots and MultiRobot Systems, 2023.
+* Multi-AUV Marine Life Tracking via Single Transceiver Payloads, C. Herrera, C. Ossa, Y.J. Hwang, D. O'Neill, A. Soto, C. Clark, C. Lowe and M. Espinoza. The 22nd International Conference on Autonomous Agents and Multiagent Systems, Workshop on Autonomous Robots and MultiRobot Systems, 2023.
 
-2020
-
-Virtual Planning and Testing of AUV Paths for Underwater Photogrammetry
+#### 2020
+* Virtual Planning and Testing of AUV Paths for Underwater Photogrammetry
 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications. 
 Lewis, A., Yager, K., Keller, M., Galvan, B., Bingham, R.C., Ting, S., Wu, J., Gambin, T., Clark C.M., Wood, Z.J.
 [PDF]
 
-2019
-
-Multi-Robot Path Planning Via Genetic Programming
+#### 2019
+* Multi-Robot Path Planning Via Genetic Programming
 Workshop on Autonomous Robots and Multi-robot Systems (AAMAS), December 2019. 
 Trudeau, A., Clark C.M.
 [PDF]
 
-Machine Learning Techniques for AUV Side Scan Sonar Data Feature Extraction as Applied to Intelligent Search for Underwater Archaeological Sites
+* Machine Learning Techniques for AUV Side Scan Sonar Data Feature Extraction as Applied to Intelligent Search for Underwater Archaeological Sites
 12th Conference on Field and Service Robotics, August 2019. 
 Nayak, N., Nara, M., Gambin, T., Wood Z.J., Clark C.M.
 [PDF]
 
-2018
-
-Acoustic Tag State Estimation with Unsynchronized Hydrophones on AUVs
+#### 2018
+* Acoustic Tag State Estimation with Unsynchronized Hydrophones on AUVs
 IEEE Intelligent Robots and Systems (IROS), 2018
 Jingnan Shi, Tianyi Ma, Chi-Yen Lee, Eyassu Shimelis, Charles Van Eijk, Christopher G. Lowe and Christopher M. Clark
 [PDF]
 
-Intelligent Shipwreck Search Using Autonomous Underwater Vehicles
+* Intelligent Shipwreck Search Using Autonomous Underwater Vehicles
 IEEE International Conference on Robotics and Automation (ICRA), May 2018
 Rutledge, J., Yuan, W., Wu, J., Freed, S., Lewis, A., Wood, Z., Gambin, T., Clark, C.M.
 [PDF]
 
-Cinematographic and Geometric Criteria for Virtual Camera Path Generation for the Visualization of Shipwreck Data 
+* Cinematographic and Geometric Criteria for Virtual Camera Path Generation for the Visualization of Shipwreck Data 
 14th International Conference on Computer Graphics Theory and Applications, 2018
 Davis, K., Viswanathan, V.K., Clark, C.M., Gambin, T., Wood, Z.
 [Preprint]
 
-2017
-
-Pipeline for Reconstruction and Visualization of Underwater Marine Archaeology Sites using Photogrammetry (Winner of Best Paper Award)
+#### 2017
+* Pipeline for Reconstruction and Visualization of Underwater Marine Archaeology Sites using Photogrammetry (Winner of Best Paper Award)
 International Conference of Computers and their Applications (CATA) Mar., 2017
 Seibert von Fock, S., Bilich, S., Davis, K., Viswanathan, V.K., Lobo Z., Lupanow, J., Clark, C.M., Gambin, T., Wood, Z.
 [PDF]
 
-Predicting Coordinated Group Movements of Sharks with Limited Observations using AUVs 
+* Predicting Coordinated Group Movements of Sharks with Limited Observations using AUVs 
 ACM Symposium on Applied Computing (SAC), April 2017
 Ho, C. , Joly K., Nosal, A.P., Lowe, C.G., Clark, C.M.
 [PDF]
 
-AUV Motion-Planning for Photogrammetric Reconstruction of Marine Archaeological Sites
+* AUV Motion-Planning for Photogrammetric Reconstruction of Marine Archaeological Sites
 IEEE International Conference on Robotics and Automation (ICRA), May 2017
 Viswanathan, V.K., Lobo Z., Lupanow, J., Seibert von Fock, S., Wood, Z., Gambin, T., Clark, C.M.
 [PDF]
 
-2016
-
-Incorporating Observation Error when Modeling Trust Between Multiple Robots Sharing a Common Workspace
+#### 2016
+* Incorporating Observation Error when Modeling Trust Between Multiple Robots Sharing a Common Workspace
 ARMS Workshop (Autonomous Robots and Multi-Robot Systems), AAMAS, 2016
 Paudel, S. and Clark, C.M.
 [PDF]
 
-Stochastic Modeling and Control for Tracking the Periodic Movement of Marine Animals via AUVs
+* Stochastic Modeling and Control for Tracking the Periodic Movement of Marine Animals via AUVs
 IEEE International Conference on Intelligent Robots and Systems (IROS), 2016.
 Smith, K., Hsiung, S., White, C., Lowe, C., Clark, C.
 [PDF]
 
-2015
-
-Multi-Robot Mapping of Lava Tubes
+#### 2015
+* Multi-Robot Mapping of Lava Tubes
 Field and Service Robotics (FSR 2015), June, 2015
 Huang, X., Yang J., Storrie-Lombardi, M., Lyzenga, G., and Clark, C.M.
 
-2014
-
-
- 
-A Multi-AUV State Estimator for Determining the 3D Position of Tagged Fish
+#### 2014
+* A Multi-AUV State Estimator for Determining the 3D Position of Tagged Fish
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), 2014
 Lin, Y., Kastein, H., Peterson, T., White, C., Lowe, C.G., Clark, C.M. 
 [PDF] 
 
-Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces
+* Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), 2014.
 Wiktor, A., Scobee, D., Messenger, S., Clark, C.M. 
 [PDF]
 
-Surface Reconstruction of Ancient Water Storage Systems
+* Surface Reconstruction of Ancient Water Storage Systems
 9th International Conference on Computer Graphics Theory and Applications (GRAPP), 2014
 Nelson, E., Dunn, I., Forrester, J., Gambin, T., Clark, C.M., Wood, Z.J.
 [PDF]
 
-2013
-
-ROV-based Tracking of a Shallow Water Nocturnal Squid,
+#### 2013
+* ROV-based Tracking of a Shallow Water Nocturnal Squid,
 OCEANS 2013 Conference (OCEANS 2013)
 Yim, S., Clark, C.M., Peters,, T., Prodanov, V., and Fidopiastis, P. 
 [PDF]
 
-Using Time of Flight Distance Calculations for Tagged Shark Localization With an AUV,
+* Using Time of Flight Distance Calculations for Tagged Shark Localization With an AUV,
 Unmanned Untethered Submersible Technology Conference (UUST 2013)
 Lin, Y., Kastein, H., Peterson, T., White, C., Clark, C., and Lowe, C. 
 [PDF]
 
-Towards Three-Dimensional Underwater Mapping Without Odometry,
+* Towards Three-Dimensional Underwater Mapping Without Odometry,
 Unmanned Untethered Submersible Technology Conference (UUST 2013)
 Dobke, A., Vasquez, J., Lieu, L., Chasnov, B., Clark, C., Dunn, I., Wood, Z. 
 [PDF] 
 
-A Multi-AUV System for Cooperative Tracking and Following of Leopard Sharks,
+* A Multi-AUV System for Cooperative Tracking and Following of Leopard Sharks,
 IEEE International Conference on Robotics and Automation (ICRA 2013)
 Shinzaki, D., Gage, C., Tang, S., Moline, M., Wolfe, B., Lowe, C. and Clark, C. 
 [PDF]
 
-Uncertainty Visualization and Hole Filling for Geometric Models of Ancient Water Systems 
+* Uncertainty Visualization and Hole Filling for Geometric Models of Ancient Water Systems 
 4th International Conference on Information Visualization Theory and Applications (IVAPP 2013)
 Forrester, J., McVicker, W., Gambin, T., Clark, C., and Wood, Z. 
 
-2012
-
-Tracking of a Tagged Leopard Shark with an AUV: Sensor Calibration and State Estimation
+#### 2012
+* Tracking of a Tagged Leopard Shark with an AUV: Sensor Calibration and State Estimation
 IEEE International Conference on Robotics and Automation (ICRA), May 2012.
 Forney, C., Manii, E., Farris, M., Lowe, C.G, and Clark, C.M.
  [PDF]
 
-Multi-Robot Control for Circumnavigation of Particle Distributions
+* Multi-Robot Control for Circumnavigation of Particle Distributions
 International Symposium on Distributed Autonomous Robot Systems (DARS2012), Nov 2012.
 Tang, S. Shinzaki, D., M., Lowe, C.G, and Clark, C.M.
  [PDF] 
 
-Trust Networks in Multi-Robot Communities
+* Trust Networks in Multi-Robot Communities
 IEEE International Conference on Robotics and Biomimetics (ROBIO2012), Dec 2012
 Mantel, K., and Clark, C.M. 
 [PDF]
 
-Mapping and Visualizing Ancient Water Storage Systems with an ROV An Approach Based on Fusing Stationary Scans within a Particle Filter
+* Mapping and Visualizing Ancient Water Storage Systems with an ROV An Approach Based on Fusing Stationary Scans within a Particle Filter
 IEEE International Conference on Robotics and Biomimetics (ROBIO2012), Dec 2012. 
 McVicker, W., Forrester, J., Gambin, T., Lehr, J., Wood, Z.J., and Clark, C.M. 
 [PDF]
 
-2011
-
-Surface Reconstruction of Maltese Cisterns using ROV Sonar Data for Archeological Study
+#### 2011
+* Surface Reconstruction of Maltese Cisterns using ROV Sonar Data for Archeological Study
 International Computer Engineering Experience (ICEX), 2011
 C. Forney, J. Forrester, B. Bagley, W. McVicker, J. White, T. Smith, J. Batryn, A. Gonzlaez, J. Lehr, T. Gambin, C. Clark and Z. Wood
 [PDF]
 
-Ice Detection for Under Ice AUV Navigation,
+* Ice Detection for Under Ice AUV Navigation,
 21st International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2011), June, 2011.
 Maxson M., Moline M.A., Layton S., Johnsen G., Berge J., Clark, C.M.
 
-Real-Time Visualizations of Ocean Data Collected by the NORUS Glider in Svalbard, Norway,
+* Real-Time Visualizations of Ocean Data Collected by the NORUS Glider in Svalbard, Norway,
 21st International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2011), June, 2011. 
 Wood Z., Moline M. A., Clark C.M., Medina D.
 [PDF] 
 
-Spectral Profiling & Imaging (SPI): Extending L.I.F.E. technology for the remote exploration of life in ice Caves (R.E.L.I.C.) on Earth and Mars
+* Spectral Profiling & Imaging (SPI): Extending L.I.F.E. technology for the remote exploration of life in ice Caves (R.E.L.I.C.) on Earth and Mars
 Instruments, Methods, and Missions for Astrobiology XIV, R.B. Hoover, et al., Editors. 2011.
 Storrie-Lombardi, M.C., A.P. Hall, S. Hang, G.A. Lyzenga, C.M. Clark, B.I. Sattler, A.K. Bej, and R.B. Hoover
 [PDF] 
 
-2010
-
-Multi-Robot Boundary Tracking with Phase and Workload Balancing 
+#### 2010
+* Multi-Robot Boundary Tracking with Phase and Workload Balancing 
 IEEE Conference on Intelligent Robotic Systems (IROS 2010), Oct 2010.
 Boardman, B., Edmonds, J., K, and Clark, C.M.
 [PDF]
 
-Real-Time Visualizations of Ocean Data Collected By The NORUS Glider in Svalbard, Norway,
+* Real-Time Visualizations of Ocean Data Collected By The NORUS Glider in Svalbard, Norway,
 International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2010), 2010. 
 Medina D., Moline M., Clark C.M., and Wood, Zoe J.
 [PDF]
 
-2009
-
-Altruistic Task Allocation despite Unbalanced Relationships within Multi-Robot Communities 
+#### 2009
+* Altruistic Task Allocation despite Unbalanced Relationships within Multi-Robot Communities 
 IEEE Conference on Intelligent Robots and Systems (IROS 09), Oct, 2009.
 Morton, R., Bekey, G.A., and Clark, C.M.
 [PDF]
 
-Assigning Closely Spaced Targets to Multiple Autonomous Underwater Vehicles 
+* Assigning Closely Spaced Targets to Multiple Autonomous Underwater Vehicles 
 Unmanned Untethered Submersible Technology (UUST 09), 2009.
 Chow, B., Huissoon, J.P., and Clark, C.M. 
 [PDF]
 
-The Malta Cistern Mapping Project: Expedition II
+* The Malta Cistern Mapping Project: Expedition II
 Unmanned Untethered Submersible Technology (UUST 09), 2009.
 Clark, C.M., Hiranandani, D., White, C., Boardman, M., Schlachtman, M., Phillips, P., Kuehn, J., Gambin, T., and Buhagiar, K.
 [PDF]
 
-Underwater Robots with Sonar and Smart Tether for Underground Cistern Mapping and Exploration
+* Underwater Robots with Sonar and Smart Tether for Underground Cistern Mapping and Exploration
 (VAST 09), 2009.
 Hiranandani, D., White, C., Clark, C.M., Gambin, T., and Buhagiar, K.
 [PDF]
 
-Enhanced Vehicle Recognition utilizing Sensor Fusion and Statistical Algorithms,
+* Enhanced Vehicle Recognition utilizing Sensor Fusion and Statistical Algorithms,
 ASME International Mechanical Engineering Congress and Exposition (IMECE 09),2009.
 Roussel, S., Porumamilla, H., Birdsong, C., Schuster, P., and Clark, C.M.
 [PDF]
 
-2008
-
-Altruistic Relationships for Optimizing Task Fulfillment in Robot Communities 
+#### 2008
+* Altruistic Relationships for Optimizing Task Fulfillment in Robot Communities 
 Distributed Autonomous Robot Systems (DARS 08), Nov, 2008.
 Clark, C.M, Morton, R., and Bekey, G.A.
 [PDF]
 
-Archaeology via Underwater Robots: Mapping and Localization within Maltese Cistern Systems
+* Archaeology via Underwater Robots: Mapping and Localization within Maltese Cistern Systems
 10th International Conference on Control, Automationa, Robotics and Vision (ICARCV 08), Dec, 2008.
 Clark, C.M, Olstad, C.S., Buhagiar, K., and Gambin, T.
 [PDF]
 
-Real time Experiments in Markov Based Lane Position Estimation Using Wireless Ad-Hoc Network
+* Real time Experiments in Markov Based Lane Position Estimation Using Wireless Ad-Hoc Network
 IEEE Intelligent Vehicles Symposium (IV 08), June 4-6, 2008.
 Dao, T-S., Ng, L., Clark, C. M. and Huissoon, J. P.
 [PDF]
 
-Reinforcement Learning of Adaptive Longitudinal Vehicle Control for Dynamic Collaborative Driving 
+* Reinforcement Learning of Adaptive Longitudinal Vehicle Control for Dynamic Collaborative Driving 
 IEEE Intelligent Vehicles Symposium (IV 08), June 4-6, 2008.
 Ng, L., Clark, C. M. and Huissoon, J. P.
 [PDF]
 
-Monocular Vision based Particle Filter Localization in Urban Environments
+* Monocular Vision based Particle Filter Localization in Urban Environments
 IEEE International Conference on Robotics and Automation, May 19-23, 2008.
 Leung, K. Y., Clark, C. M., and Huissoon, J. P.
 [PDF]
 
-Toward Systematic Approaches to Design and Implement Vehicles Semi-Active Control Systems
+* Toward Systematic Approaches to Design and Implement Vehicles Semi-Active Control Systems
 ISIE08 - IEEE International Symposium on Industrial Electronics, 2008.
 Bolandhemmat, H., Clark, C.M., and Golnaraghi, F.
 [PDF]
 
-Distributed Platoon Assignment and Lane Selection for Traffic Flow Optimization
+* Distributed Platoon Assignment and Lane Selection for Traffic Flow Optimization
 IEEE Intelligent Vehicles Symposium (IV 08),June 4-6, 2008.
 Dao, T-S., Clark, C. M. and Huissoon, J. P. 
 [PDF]
 
-2007
-
-Autonomous Control of a Differential Thrust ROV
+#### 2007
+* Autonomous Control of a Differential Thrust ROV
 International Symposium on Unmanned Untethered Submersible Technology (UUST), 2007.
 Wang, W. and Clark, C.
 [PDF]
 
-SIFT Approach Used in Fish Tracking for Autonomous Underwater Vehicle
+* SIFT Approach Used in Fish Tracking for Autonomous Underwater Vehicle
 International Symposium on Unmanned Untethered Submersible Technology (UUST), 2007
 Zhou, J., Clark, C. and Huissoon, J.P.
 
-Dynamics of Step-climbing with Deformable Wheels and Applications for Mobile Robotics
+* Dynamics of Step-climbing with Deformable Wheels and Applications for Mobile Robotics
 IEEE/RSJ Conference on Intelligent Robotics and Systems, 2007
 Wilhelm, A., Melek, W., Huissoon, J.P., Clark, C.M., Hirzinger, G., Sporer, N., and Fuchs, M.
 [PDF]
 
-Design of a Wheeled Mobile Robotic Platform with Variable Footprint
+* Design of a Wheeled Mobile Robotic Platform with Variable Footprint
 IEEE/RSJ Conference on Intelligent Robotics and Systems, 2007
 Wilhelm, A.,, Huissoon, J.P., Melek, W., Clark, C.M., Fuchs, M., and Hirzinger
 [PDF]
 
-Optimized Lane Assignment Using Inter-Vehicle Communication
+* Optimized Lane Assignment Using Inter-Vehicle Communication
 IEEE Intelligent Vehicles Symposium, IV'07
 Dao, T.S., Clark, C.M., and Huissoon., J.P.
 [PDF]
 
-Development and characterization of modular and reconfigurable robot joints with harmonic drive transmission systems
+* Development and characterization of modular and reconfigurable robot joints with harmonic drive transmission systems
 International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV),  2007. 
 Z. Li, W. Melek, C. Clark
 [PDF]
 
-Task Based Configuration Optimization of Modular and Reconfigurable Robots using a Multi-Solution Inverse Kinematics Solver 
+* Task Based Configuration Optimization of Modular and Reconfigurable Robots using a Multi-Solution Inverse Kinematics Solver 
 International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV), 2007. 
 S. Tabandeh, W. Melek, C. Clark
 [PDF]
 
-2006
-
-A genetic algorithm approach to solve for multiple solutions of inverse kinematics using adaptive niching and clustering
+#### 2006
+* A genetic algorithm approach to solve for multiple solutions of inverse kinematics using adaptive niching and clustering
 IEEE World Congress on Computational Intelligence, Vancouver, BC, Canada, 2006. 
 Tabandeh S, Clark C, Melek , W
 [PDF]
 
-A Distributed Sensing System for Vehicles State Estimation
+* A Distributed Sensing System for Vehicles State Estimation
 ASME International Mechanical Engineering Congress and Exposition, November 2006. 
 Bolandhemmat, H.R., Clark, C., Golnaraghi, M.F.
 [PDF] 
 
-Complete and Scalable Multi-Robot Planning in Tunnel Environments
+* Complete and Scalable Multi-Robot Planning in Tunnel Environments
 1st IFAC Workshop on Multivehicle Systems (MVS '06), Oct, 2006. 
 Peasgood, M., McPhee, J., and Clark, C.M.
 [PDF]
 
-A Decentralized Reinforcement Learning Controller for Collaborative Driving
+* A Decentralized Reinforcement Learning Controller for Collaborative Driving
 1st IFAC Workshop on Multi-Vehicle Systems (MVS '06). Oct 2-3, Salvador, Bahia, Brazil, 2006. 
 Ng L., Clark C., Huissoon J.P.
 [PDF]
 
-Cooperative Lane-Level Positioning Using Markov Localization,
+* Cooperative Lane-Level Positioning Using Markov Localization,
 International IEEE Conference on Intelligent Transportation Systems, Sept 2006
 Dao, T.S., Leung, K., Clark, C., Huissoon, J.
 [PDF]
 
-Development of a Microscopic Traffic Simulator for Inter-Vehicle Communication Application Research
+* Development of a Microscopic Traffic Simulator for Inter-Vehicle Communication Application Research
 International IEEE Conference on Intelligent Transportation Systems, September 2006.
 Leung, K., Dao, T.S., Clark, C., Huissoon, J.
 [PDF]
 
-Geographic Information System Estimation Using Inter-Vehicle Communication
+* Geographic Information System Estimation Using Inter-Vehicle Communication
 The Mechatronics Forum Biennial International Conference, June 2006.
 Leung, K., Dao, T.S., Clark, C., Huissoon, J. 
 [PDF]
 
-Software and Control Architecture Development of an Autonomous Vehicle
+* Software and Control Architecture Development of an Autonomous Vehicle
 ASME International Student Conference, May 2006. 
 Leung, K., Clark, C., Huissoon, J.
 [PDF]
 
-Modeling and Simulation of the VideoRay Pro III Underwater Vehicle
+* Modeling and Simulation of the VideoRay Pro III Underwater Vehicle
 OCEANS'06 Asia Pacific IEEE, May 2006.
 W. Wang, and C. M. Clark  
 [PDF]
 
-Autonomous fish tracking by ROV using Monocular Camera
+* Autonomous fish tracking by ROV using Monocular Camera
 3rd Canadian Conference on Computer and Robot Vision (CRV'06)
 J. Zhou, C. M. Clark
 [PDF]
 
-2005
-
-Localization of Multiple Robots Equipped with Simple Sensors
+#### 2005
+* Localization of Multiple Robots Equipped with Simple Sensors
 IEEE Conference on Mechatronics and Automation, 2005.
 Peasgood, M., Clark, C., and McPhee, J.  
 [PDF]
 
-Towards Gaussian Multi-Robot SLAM as Applied to Underwater Robotics
+* Towards Gaussian Multi-Robot SLAM as Applied to Underwater Robotics
 International Symposium on Unmanned Untethered Submersible Technology (UUST), 2005. 
 Kroetsch, D. and Clark, C.
 [PDF]
 
-2003
-
-Motion Planning for Multi-Robot Systems using Dynamic Robot Networks,
+#### 2003
+* Motion Planning for Multi-Robot Systems using Dynamic Robot Networks,
 International Conference on Robotics and Automation, Taipei, Taiwan, May, 2003. 
 Clark, C., Rock, S. and Latombe, J.C. 
 [PDF]
 
-Using Dynamic Robot Networks for Motion Planning in Multi-Robot Space Systems
+* Using Dynamic Robot Networks for Motion Planning in Multi-Robot Space Systems
 7th International Symposium on Artificial Intelligence, Robotics and Automation in Space, May, 2003.
 Clark, C., Rock, S. and Latombe, J.C.
 [PDF]
 
-An Integrated System for Command and Control of Cooperative Robotic Systems
+* An Integrated System for Command and Control of Cooperative Robotic Systems
 11th International Conference on Advanced Robotics, June, 2003. 
 Clark, C., Frew, E. W., Jones, H.L., and Rock, S. M.
 [PDF]
 
-2002
-
-Applying Kinodynamic Randomized Motion Planning with a Dynamic Priority System to Multi-Robot Space Systems
+#### 2002
+* Applying Kinodynamic Randomized Motion Planning with a Dynamic Priority System to Multi-Robot Space Systems
 IEEE Aerospace Conference, March, 2002.
 Clark, C., Bretl, T., and Rock, S.
 [PDF]
 
-Kinematic Path-planning for Formations of Mobile Robots with a Nonholonomic Constraint
+* Kinematic Path-planning for Formations of Mobile Robots with a Nonholonomic Constraint
 International Conference on Intelligent Robots and Systems, September, 2002. 
 Barfoot, T., Clark, C., Rock, S., and D'Eleuterio, G.
 [PDF]
 
-2001
-
-Randomized Motion Planning for Groups of Nonholonomic Robots
+#### 2001
+* Randomized Motion Planning for Groups of Nonholonomic Robots
 International Symposium on Artificial Intelligence, Robotics, and Automation in Space, June 2001. 
 Clark, C., and Rock, S.
 [PDF]
 
-1999
-
-Robotic System Sensitivity to Neural Network Learning Rate
+#### 1999
+* Robotic System Sensitivity to Neural Network Learning Rate
 IEEE Hong Kong Symposium on Robotics and Control, July, 1999.
 Clark, C., Chen, P.C.Y. and Mills, J.K.
 
-Comparison of Performance of Neural Network Controller Architectures: Error Back Propagation, Mixture of Expert, and 'Move' Neural Network Architectures on Industrial Robot Trajectory Following Tasks
+* Comparison of Performance of Neural Network Controller Architectures: Error Back Propagation, Mixture of Expert, and 'Move' Neural Network Architectures on Industrial Robot Trajectory Following Tasks
 International Conference on Advanced Manufacturing Technology, June, 1999.
 Clark, C. and Mills, J.K.
 
-1998
-
-Increasing Production of Robot Manipulators with Neural Networks
+#### 1998
+* Increasing Production of Robot Manipulators with Neural Networks
 CSME FORUM, May 1998.
 Clark, C. and Mills, J.K.
 
-Development of a Neural Network Module for Improving the Performance of a Commercial Robot
+* Development of a Neural Network Module for Improving the Performance of a Commercial Robot
 World Automation Congress, May, 1998.
 Chen, P.C.Y., Ogilvie, A., Clark, C., Zhou, K., Mills, J.K.
 
 ## Book Chapters
 * Emerging technologies and application for studies of shark biology. In: J. Carrier, M. Heithaus, C. Simpfendorfer (eds.). Use of autonomous vehicles for tracking and surveying of acoustically tagged elasmobranchs. CRC Press. Lowe, C.G., C.F. White, C.M. Clark. 2018.
+
 
 ## Theses
 
