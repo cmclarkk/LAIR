@@ -234,101 +234,45 @@ Medina D., Moline M., Clark C.M., and Wood, Zoe J.
 [PDF]
 
 #### 2009
-* Altruistic Task Allocation despite Unbalanced Relationships within Multi-Robot Communities 
-IEEE Conference on Intelligent Robots and Systems (IROS 09), Oct, 2009.
-Morton, R., Bekey, G.A., and Clark, C.M.
-[PDF]
+* Altruistic Task Allocation despite Unbalanced Relationships within Multi-Robot Communities, Morton, R., Bekey, G.A., and Clark, C.M., IEEE Conference on Intelligent Robots and Systems (IROS 09), Oct, 2009. [PDF]
 
-* Assigning Closely Spaced Targets to Multiple Autonomous Underwater Vehicles 
-Unmanned Untethered Submersible Technology (UUST 09), 2009.
-Chow, B., Huissoon, J.P., and Clark, C.M. 
-[PDF]
+* Assigning Closely Spaced Targets to Multiple Autonomous Underwater Vehicles, Chow, B., Huissoon, J.P., and Clark, C.M., Unmanned Untethered Submersible Technology (UUST 09), 2009. [PDF]
 
-* The Malta Cistern Mapping Project: Expedition II
-Unmanned Untethered Submersible Technology (UUST 09), 2009.
-Clark, C.M., Hiranandani, D., White, C., Boardman, M., Schlachtman, M., Phillips, P., Kuehn, J., Gambin, T., and Buhagiar, K.
-[PDF]
+* The Malta Cistern Mapping Project: Expedition II, Clark, C.M., Hiranandani, D., White, C., Boardman, M., Schlachtman, M., Phillips, P., Kuehn, J., Gambin, T., and Buhagiar, K., Unmanned Untethered Submersible Technology (UUST 09), 2009. [PDF]
 
-* Underwater Robots with Sonar and Smart Tether for Underground Cistern Mapping and Exploration
-(VAST 09), 2009.
-Hiranandani, D., White, C., Clark, C.M., Gambin, T., and Buhagiar, K.
-[PDF]
+* Underwater Robots with Sonar and Smart Tether for Underground Cistern Mapping and Exploration, Hiranandani, D., White, C., Clark, C.M., Gambin, T., and Buhagiar, K., (VAST 09), 2009. [PDF]
 
-* Enhanced Vehicle Recognition utilizing Sensor Fusion and Statistical Algorithms,
-ASME International Mechanical Engineering Congress and Exposition (IMECE 09),2009.
-Roussel, S., Porumamilla, H., Birdsong, C., Schuster, P., and Clark, C.M.
-[PDF]
+* Enhanced Vehicle Recognition utilizing Sensor Fusion and Statistical Algorithms, Roussel, S., Porumamilla, H., Birdsong, C., Schuster, P., and Clark, C.M., ASME International Mechanical Engineering Congress and Exposition (IMECE 09),2009. [PDF]
 
 #### 2008
-* Altruistic Relationships for Optimizing Task Fulfillment in Robot Communities 
-Distributed Autonomous Robot Systems (DARS 08), Nov, 2008.
-Clark, C.M, Morton, R., and Bekey, G.A.
-[PDF]
+* Altruistic Relationships for Optimizing Task Fulfillment in Robot Communities, Clark, C.M, Morton, R., and Bekey, G.A., Distributed Autonomous Robot Systems (DARS 08), Nov, 2008. [PDF]
 
-* Archaeology via Underwater Robots: Mapping and Localization within Maltese Cistern Systems
-10th International Conference on Control, Automationa, Robotics and Vision (ICARCV 08), Dec, 2008.
-Clark, C.M, Olstad, C.S., Buhagiar, K., and Gambin, T.
-[PDF]
+* Archaeology via Underwater Robots: Mapping and Localization within Maltese Cistern Systems, Clark, C.M, Olstad, C.S., Buhagiar, K., and Gambin, T., 10th International Conference on Control, Automationa, Robotics and Vision (ICARCV 08), Dec, 2008. [PDF]
 
-* Real time Experiments in Markov Based Lane Position Estimation Using Wireless Ad-Hoc Network
-IEEE Intelligent Vehicles Symposium (IV 08), June 4-6, 2008.
-Dao, T-S., Ng, L., Clark, C. M. and Huissoon, J. P.
-[PDF]
+* Real time Experiments in Markov Based Lane Position Estimation Using Wireless Ad-Hoc Network, Dao, T-S., Ng, L., Clark, C. M. and Huissoon, J. P., IEEE Intelligent Vehicles Symposium (IV 08), June 4-6, 2008. [PDF]
 
-* Reinforcement Learning of Adaptive Longitudinal Vehicle Control for Dynamic Collaborative Driving 
-IEEE Intelligent Vehicles Symposium (IV 08), June 4-6, 2008.
-Ng, L., Clark, C. M. and Huissoon, J. P.
-[PDF]
+* Reinforcement Learning of Adaptive Longitudinal Vehicle Control for Dynamic Collaborative Driving, Ng, L., Clark, C. M. and Huissoon, J. P., IEEE Intelligent Vehicles Symposium (IV 08), June 4-6, 2008. [PDF]
 
-* Monocular Vision based Particle Filter Localization in Urban Environments
-IEEE International Conference on Robotics and Automation, May 19-23, 2008.
-Leung, K. Y., Clark, C. M., and Huissoon, J. P.
-[PDF]
+* Monocular Vision based Particle Filter Localization in Urban Environments, Leung, K. Y., Clark, C. M., and Huissoon, J. P., IEEE International Conference on Robotics and Automation, May 19-23, 2008. [PDF]
 
-* Toward Systematic Approaches to Design and Implement Vehicles Semi-Active Control Systems
-ISIE08 - IEEE International Symposium on Industrial Electronics, 2008.
-Bolandhemmat, H., Clark, C.M., and Golnaraghi, F.
-[PDF]
+* Toward Systematic Approaches to Design and Implement Vehicles Semi-Active Control Systems, Bolandhemmat, H., Clark, C.M., and Golnaraghi, F., ISIE08 - IEEE International Symposium on Industrial Electronics, 2008. [PDF]
 
-* Distributed Platoon Assignment and Lane Selection for Traffic Flow Optimization
-IEEE Intelligent Vehicles Symposium (IV 08),June 4-6, 2008.
-Dao, T-S., Clark, C. M. and Huissoon, J. P. 
-[PDF]
+* Distributed Platoon Assignment and Lane Selection for Traffic Flow Optimization, Dao, T-S., Clark, C. M. and Huissoon, J. P., IEEE Intelligent Vehicles Symposium (IV 08),June 4-6, 2008. [PDF]
 
 #### 2007
-* Autonomous Control of a Differential Thrust ROV
-International Symposium on Unmanned Untethered Submersible Technology (UUST), 2007.
-Wang, W. and Clark, C.
-[PDF]
+* Autonomous Control of a Differential Thrust ROV, Wang, W. and Clark, C., International Symposium on Unmanned Untethered Submersible Technology (UUST), 2007. [PDF]
 
-* SIFT Approach Used in Fish Tracking for Autonomous Underwater Vehicle
-International Symposium on Unmanned Untethered Submersible Technology (UUST), 2007
-Zhou, J., Clark, C. and Huissoon, J.P.
+* SIFT Approach Used in Fish Tracking for Autonomous Underwater Vehicle, Zhou, J., Clark, C. and Huissoon, J.P., International Symposium on Unmanned Untethered Submersible Technology (UUST), 2007.
 
-* Dynamics of Step-climbing with Deformable Wheels and Applications for Mobile Robotics
-IEEE/RSJ Conference on Intelligent Robotics and Systems, 2007
-Wilhelm, A., Melek, W., Huissoon, J.P., Clark, C.M., Hirzinger, G., Sporer, N., and Fuchs, M.
-[PDF]
+* Dynamics of Step-climbing with Deformable Wheels and Applications for Mobile Robotics, Wilhelm, A., Melek, W., Huissoon, J.P., Clark, C.M., Hirzinger, G., Sporer, N., and Fuchs, M., IEEE/RSJ Conference on Intelligent Robotics and Systems, 2007. [PDF]
 
-* Design of a Wheeled Mobile Robotic Platform with Variable Footprint
-IEEE/RSJ Conference on Intelligent Robotics and Systems, 2007
-Wilhelm, A.,, Huissoon, J.P., Melek, W., Clark, C.M., Fuchs, M., and Hirzinger
-[PDF]
+* Design of a Wheeled Mobile Robotic Platform with Variable Footprint, Wilhelm, A.,, Huissoon, J.P., Melek, W., Clark, C.M., Fuchs, M., and Hirzinger, IEEE/RSJ Conference on Intelligent Robotics and Systems, 2007. [PDF]
 
-* Optimized Lane Assignment Using Inter-Vehicle Communication
-IEEE Intelligent Vehicles Symposium, IV'07
-Dao, T.S., Clark, C.M., and Huissoon., J.P.
-[PDF]
+* Optimized Lane Assignment Using Inter-Vehicle Communication, Dao, T.S., Clark, C.M., and Huissoon., J.P., IEEE Intelligent Vehicles Symposium, IV'07. [PDF]
 
-* Development and characterization of modular and reconfigurable robot joints with harmonic drive transmission systems
-International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV),  2007. 
-Z. Li, W. Melek, C. Clark
-[PDF]
+* Development and characterization of modular and reconfigurable robot joints with harmonic drive transmission systems, Z. Li, W. Melek, C. Clark, International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV),  2007. [PDF]
 
-* Task Based Configuration Optimization of Modular and Reconfigurable Robots using a Multi-Solution Inverse Kinematics Solver 
-International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV), 2007. 
-S. Tabandeh, W. Melek, C. Clark
-[PDF]
+* Task Based Configuration Optimization of Modular and Reconfigurable Robots using a Multi-Solution Inverse Kinematics Solver, S. Tabandeh, W. Melek, C. Clark, International Conference on Changeable, Agile, Reconfigurable and Virtual Production (CARV), 2007. [PDF]
 
 #### 2006
 * A genetic algorithm approach to solve for multiple solutions of inverse kinematics using adaptive niching and clustering, Tabandeh S, Clark C, Melek W, IEEE World Congress on Computational Intelligence, Vancouver, BC, Canada, 2006. [PDF]
