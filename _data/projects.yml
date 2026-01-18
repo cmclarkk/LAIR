@@ -1,12 +1,13 @@
 - name: Bimannual Manipulation Control via VLAs
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: /LAIR/assets/images/UltraRobot.jpg
   link:
   description: Cool robot stuff!
 - name: Autonomous Control for Shark Tracking
   link:
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: /LAIR/assets/images/ASV.jpg
   description: Cool robot stuff!
 - name: Autonomous Robot Control for Shipwreck Mapping
   link:
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  image: /LAIR/assets/images/AUV.jpg
   description: Cool robot stuff!
+
