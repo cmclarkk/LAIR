@@ -109,129 +109,58 @@ Davis, K., Viswanathan, V.K., Clark, C.M., Gambin, T., Wood, Z.
 [Preprint]
 
 #### 2017
-* Pipeline for Reconstruction and Visualization of Underwater Marine Archaeology Sites using Photogrammetry (Winner of Best Paper Award)
-International Conference of Computers and their Applications (CATA) Mar., 2017
-Seibert von Fock, S., Bilich, S., Davis, K., Viswanathan, V.K., Lobo Z., Lupanow, J., Clark, C.M., Gambin, T., Wood, Z.
-[PDF]
+* Pipeline for Reconstruction and Visualization of Underwater Marine Archaeology Sites using Photogrammetry (Winner of Best Paper Award), Seibert von Fock, S., Bilich, S., Davis, K., Viswanathan, V.K., Lobo Z., Lupanow, J., Clark, C.M., Gambin, T., Wood, Z., International Conference of Computers and their Applications (CATA) Mar., 2017. [PDF]
 
-* Predicting Coordinated Group Movements of Sharks with Limited Observations using AUVs 
-ACM Symposium on Applied Computing (SAC), April 2017
-Ho, C. , Joly K., Nosal, A.P., Lowe, C.G., Clark, C.M.
-[PDF]
+* Predicting Coordinated Group Movements of Sharks with Limited Observations using AUVs, Ho, C. , Joly K., Nosal, A.P., Lowe, C.G., Clark, C.M., ACM Symposium on Applied Computing (SAC), April 2017. [PDF]
 
-* AUV Motion-Planning for Photogrammetric Reconstruction of Marine Archaeological Sites
-IEEE International Conference on Robotics and Automation (ICRA), May 2017
-Viswanathan, V.K., Lobo Z., Lupanow, J., Seibert von Fock, S., Wood, Z., Gambin, T., Clark, C.M.
-[PDF]
+* AUV Motion-Planning for Photogrammetric Reconstruction of Marine Archaeological Sites, Viswanathan, V.K., Lobo Z., Lupanow, J., Seibert von Fock, S., Wood, Z., Gambin, T., Clark, C.M., IEEE International Conference on Robotics and Automation (ICRA), May 2017. [PDF]
 
 #### 2016
-* Incorporating Observation Error when Modeling Trust Between Multiple Robots Sharing a Common Workspace
-ARMS Workshop (Autonomous Robots and Multi-Robot Systems), AAMAS, 2016
-Paudel, S. and Clark, C.M.
-[PDF]
+* Incorporating Observation Error when Modeling Trust Between Multiple Robots Sharing a Common Workspace, Paudel, S. and Clark, C.M., ARMS Workshop (Autonomous Robots and Multi-Robot Systems), AAMAS, 2016. [PDF]
 
-* Stochastic Modeling and Control for Tracking the Periodic Movement of Marine Animals via AUVs
-IEEE International Conference on Intelligent Robots and Systems (IROS), 2016.
-Smith, K., Hsiung, S., White, C., Lowe, C., Clark, C.
-[PDF]
+* Stochastic Modeling and Control for Tracking the Periodic Movement of Marine Animals via AUVs, Smith, K., Hsiung, S., White, C., Lowe, C., Clark, C., IEEE International Conference on Intelligent Robots and Systems (IROS), 2016. [PDF]
 
 #### 2015
-* Multi-Robot Mapping of Lava Tubes
-Field and Service Robotics (FSR 2015), June, 2015
-Huang, X., Yang J., Storrie-Lombardi, M., Lyzenga, G., and Clark, C.M.
+* Multi-Robot Mapping of Lava Tubes, Huang, X., Yang J., Storrie-Lombardi, M., Lyzenga, G., and Clark, C.M., Field and Service Robotics (FSR 2015), June, 2015.
 
 #### 2014
-* A Multi-AUV State Estimator for Determining the 3D Position of Tagged Fish
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), 2014
-Lin, Y., Kastein, H., Peterson, T., White, C., Lowe, C.G., Clark, C.M. 
-[PDF] 
+* A Multi-AUV State Estimator for Determining the 3D Position of Tagged Fish, Lin, Y., Kastein, H., Peterson, T., White, C., Lowe, C.G., Clark, C.M., IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), 2014. [PDF] 
 
-* Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), 2014.
-Wiktor, A., Scobee, D., Messenger, S., Clark, C.M. 
-[PDF]
+* Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces, Wiktor, A., Scobee, D., Messenger, S., Clark, C.M., IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014), 2014. [PDF]
 
-* Surface Reconstruction of Ancient Water Storage Systems
-9th International Conference on Computer Graphics Theory and Applications (GRAPP), 2014
-Nelson, E., Dunn, I., Forrester, J., Gambin, T., Clark, C.M., Wood, Z.J.
-[PDF]
+* Surface Reconstruction of Ancient Water Storage Systems, Nelson, E., Dunn, I., Forrester, J., Gambin, T., Clark, C.M., Wood, Z.J., 9th International Conference on Computer Graphics Theory and Applications (GRAPP), 2014. [PDF]
 
 #### 2013
-* ROV-based Tracking of a Shallow Water Nocturnal Squid,
-OCEANS 2013 Conference (OCEANS 2013)
-Yim, S., Clark, C.M., Peters,, T., Prodanov, V., and Fidopiastis, P. 
-[PDF]
+* ROV-based Tracking of a Shallow Water Nocturnal Squid, Yim, S., Clark, C.M., Peters,, T., Prodanov, V., and Fidopiastis, P., OCEANS 2013 Conference (OCEANS 2013). [PDF]
 
-* Using Time of Flight Distance Calculations for Tagged Shark Localization With an AUV,
-Unmanned Untethered Submersible Technology Conference (UUST 2013)
-Lin, Y., Kastein, H., Peterson, T., White, C., Clark, C., and Lowe, C. 
-[PDF]
+* Using Time of Flight Distance Calculations for Tagged Shark Localization With an AUV, Unmanned Untethered Submersible Technology Conference (UUST 2013). [PDF]
 
-* Towards Three-Dimensional Underwater Mapping Without Odometry,
-Unmanned Untethered Submersible Technology Conference (UUST 2013)
-Dobke, A., Vasquez, J., Lieu, L., Chasnov, B., Clark, C., Dunn, I., Wood, Z. 
-[PDF] 
+* Towards Three-Dimensional Underwater Mapping Without Odometry, Dobke, A., Vasquez, J., Lieu, L., Chasnov, B., Clark, C., Dunn, I., Wood, Z., Unmanned Untethered Submersible Technology Conference (UUST 2013). [PDF] 
 
-* A Multi-AUV System for Cooperative Tracking and Following of Leopard Sharks,
-IEEE International Conference on Robotics and Automation (ICRA 2013)
-Shinzaki, D., Gage, C., Tang, S., Moline, M., Wolfe, B., Lowe, C. and Clark, C. 
-[PDF]
+* A Multi-AUV System for Cooperative Tracking and Following of Leopard Sharks, Shinzaki, D., Gage, C., Tang, S., Moline, M., Wolfe, B., Lowe, C. and Clark, C., IEEE International Conference on Robotics and Automation (ICRA 2013). [PDF]
 
-* Uncertainty Visualization and Hole Filling for Geometric Models of Ancient Water Systems 
-4th International Conference on Information Visualization Theory and Applications (IVAPP 2013)
-Forrester, J., McVicker, W., Gambin, T., Clark, C., and Wood, Z. 
+* Uncertainty Visualization and Hole Filling for Geometric Models of Ancient Water Systems, Forrester, J., McVicker, W., Gambin, T., Clark, C., and Wood, Z., 4th International Conference on Information Visualization Theory and Applications (IVAPP 2013).
 
 #### 2012
-* Tracking of a Tagged Leopard Shark with an AUV: Sensor Calibration and State Estimation
-IEEE International Conference on Robotics and Automation (ICRA), May 2012.
-Forney, C., Manii, E., Farris, M., Lowe, C.G, and Clark, C.M.
- [PDF]
+* Tracking of a Tagged Leopard Shark with an AUV: Sensor Calibration and State Estimation, Forney, C., Manii, E., Farris, M., Lowe, C.G, and Clark, C.M., IEEE International Conference on Robotics and Automation (ICRA), May 2012. [PDF]
 
-* Multi-Robot Control for Circumnavigation of Particle Distributions
-International Symposium on Distributed Autonomous Robot Systems (DARS2012), Nov 2012.
-Tang, S. Shinzaki, D., M., Lowe, C.G, and Clark, C.M.
- [PDF] 
+* Multi-Robot Control for Circumnavigation of Particle Distributions, Tang, S. Shinzaki, D., M., Lowe, C.G, and Clark, C.M., International Symposium on Distributed Autonomous Robot Systems (DARS2012), Nov 2012. [PDF] 
 
-* Trust Networks in Multi-Robot Communities
-IEEE International Conference on Robotics and Biomimetics (ROBIO2012), Dec 2012
-Mantel, K., and Clark, C.M. 
-[PDF]
+* Trust Networks in Multi-Robot Communities, Mantel, K., and Clark, C.M., IEEE International Conference on Robotics and Biomimetics (ROBIO2012), Dec 2012. [PDF]
 
-* Mapping and Visualizing Ancient Water Storage Systems with an ROV An Approach Based on Fusing Stationary Scans within a Particle Filter
-IEEE International Conference on Robotics and Biomimetics (ROBIO2012), Dec 2012. 
-McVicker, W., Forrester, J., Gambin, T., Lehr, J., Wood, Z.J., and Clark, C.M. 
-[PDF]
+* Mapping and Visualizing Ancient Water Storage Systems with an ROV An Approach Based on Fusing Stationary Scans within a Particle Filter, McVicker, W., Forrester, J., Gambin, T., Lehr, J., Wood, Z.J., and Clark, C.M., IEEE International Conference on Robotics and Biomimetics (ROBIO2012), Dec 2012. [PDF]
 
 #### 2011
-* Surface Reconstruction of Maltese Cisterns using ROV Sonar Data for Archeological Study
-International Computer Engineering Experience (ICEX), 2011
-C. Forney, J. Forrester, B. Bagley, W. McVicker, J. White, T. Smith, J. Batryn, A. Gonzlaez, J. Lehr, T. Gambin, C. Clark and Z. Wood
-[PDF]
+* Surface Reconstruction of Maltese Cisterns using ROV Sonar Data for Archeological Study, C. Forney, J. Forrester, B. Bagley, W. McVicker, J. White, T. Smith, J. Batryn, A. Gonzlaez, J. Lehr, T. Gambin, C. Clark and Z. Wood, International Computer Engineering Experience (ICEX), 2011 [PDF]
 
-* Ice Detection for Under Ice AUV Navigation,
-21st International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2011), June, 2011.
-Maxson M., Moline M.A., Layton S., Johnsen G., Berge J., Clark, C.M.
+* Ice Detection for Under Ice AUV Navigation, Maxson M., Moline M.A., Layton S., Johnsen G., Berge J., Clark, C.M., 21st International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2011), June, 2011.
 
-* Real-Time Visualizations of Ocean Data Collected by the NORUS Glider in Svalbard, Norway,
-21st International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2011), June, 2011. 
-Wood Z., Moline M. A., Clark C.M., Medina D.
-[PDF] 
+* Real-Time Visualizations of Ocean Data Collected by the NORUS Glider in Svalbard, Norway, Wood Z., Moline M. A., Clark C.M., Medina D., 21st International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2011), June, 2011. [PDF] 
 
-* Spectral Profiling & Imaging (SPI): Extending L.I.F.E. technology for the remote exploration of life in ice Caves (R.E.L.I.C.) on Earth and Mars
-Instruments, Methods, and Missions for Astrobiology XIV, R.B. Hoover, et al., Editors. 2011.
-Storrie-Lombardi, M.C., A.P. Hall, S. Hang, G.A. Lyzenga, C.M. Clark, B.I. Sattler, A.K. Bej, and R.B. Hoover
-[PDF] 
+* Spectral Profiling & Imaging (SPI): Extending L.I.F.E. technology for the remote exploration of life in ice Caves (R.E.L.I.C.) on Earth and Mars, Storrie-Lombardi, M.C., A.P. Hall, S. Hang, G.A. Lyzenga, C.M. Clark, B.I. Sattler, A.K. Bej, and R.B. Hoover, Instruments, Methods, and Missions for Astrobiology XIV, R.B. Hoover, et al., Editors. 2011. [PDF] 
 
 #### 2010
-* Multi-Robot Boundary Tracking with Phase and Workload Balancing 
-IEEE Conference on Intelligent Robotic Systems (IROS 2010), Oct 2010.
-Boardman, B., Edmonds, J., K, and Clark, C.M.
-[PDF]
-
-* Real-Time Visualizations of Ocean Data Collected By The NORUS Glider in Svalbard, Norway,
-International Offshore (Ocean) and Polar Engineering Conference (ISOPE 2010), 2010. 
-Medina D., Moline M., Clark C.M., and Wood, Zoe J.
-[PDF]
+* Multi-Robot Boundary Tracking with Phase and Workload Balancing, Boardman, B., Edmonds, J., K, and Clark, C.M., IEEE Conference on Intelligent Robotic Systems (IROS 2010), Oct 2010. [PDF]
 
 #### 2009
 * Altruistic Task Allocation despite Unbalanced Relationships within Multi-Robot Communities, Morton, R., Bekey, G.A., and Clark, C.M., IEEE Conference on Intelligent Robots and Systems (IROS 09), Oct, 2009. [PDF]
