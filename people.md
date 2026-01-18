@@ -1,0 +1,12 @@
+---
+title: People
+layout: page
+---
+
+## Current NYU Students
+* Jane
+* Joe
+
+## Past Harvey Mudd College Students
+* Jane
+* Joe
