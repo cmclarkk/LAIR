@@ -11,14 +11,14 @@ title: LAIR @ NYU
 # Description of the Site
 description: Lab for Autonomous and Intelligent Robotics
 # URL of Image of the Site
-site-image: /LAIR_Website/assets/images/AUVbw.jpg
+site-image: /LAIR/assets/images/AUVbw.jpg
 # Keywords of the Site
 site-keywords: Robotics, AUV, Multi-Robot
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /LAIR_Website/assets/images/AUV.jpg
+heroimage: /LAIR/assets/images/AUVbw.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Christopher Clark
 # URL for the Image of the Author
-author-image: /LAIR_Website/assets/images/ClarkIver2.jpg
+author-image: /LAIR/assets/images/ClarkIver2.jpg
 # 60 Words About the Author
 author-about: The Lab for Autonomous And Intelligent Robots is a university research lab at NYU that strives to develop new robotics algorithms, ML models, and control systems motivated by in-the-wild applications. Originally focussing on multi-robot systems and motion planning, the lab's work has been applied to marine biology, archaeology, autonomous driving, security systems, and oceanography. The LAIR has travelled with Professor Christopher Clark career and hence has had many home institutions including the University of Waterloo, Cal Poly SLO, Princeton University, Harvey Mudd College, and now NYU.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
@@ -95,6 +95,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
 
 
 
