@@ -331,93 +331,42 @@ S. Tabandeh, W. Melek, C. Clark
 [PDF]
 
 #### 2006
-* A genetic algorithm approach to solve for multiple solutions of inverse kinematics using adaptive niching and clustering
-IEEE World Congress on Computational Intelligence, Vancouver, BC, Canada, 2006. 
-Tabandeh S, Clark C, Melek , W
-[PDF]
+* A genetic algorithm approach to solve for multiple solutions of inverse kinematics using adaptive niching and clustering, Tabandeh S, Clark C, Melek W, IEEE World Congress on Computational Intelligence, Vancouver, BC, Canada, 2006. [PDF]
 
-* A Distributed Sensing System for Vehicles State Estimation
-ASME International Mechanical Engineering Congress and Exposition, November 2006. 
-Bolandhemmat, H.R., Clark, C., Golnaraghi, M.F.
-[PDF] 
+* A Distributed Sensing System for Vehicles State Estimation, Bolandhemmat, H.R., Clark, C., Golnaraghi, M.F., ASME International Mechanical Engineering Congress and Exposition, November 2006. [PDF] 
 
-* Complete and Scalable Multi-Robot Planning in Tunnel Environments
-1st IFAC Workshop on Multivehicle Systems (MVS '06), Oct, 2006. 
-Peasgood, M., McPhee, J., and Clark, C.M.
-[PDF]
+* Complete and Scalable Multi-Robot Planning in Tunnel Environments, Peasgood, M., McPhee, J., and Clark, C.M., 1st IFAC Workshop on Multivehicle Systems (MVS '06), Oct, 2006. [PDF]
 
-* A Decentralized Reinforcement Learning Controller for Collaborative Driving
-1st IFAC Workshop on Multi-Vehicle Systems (MVS '06). Oct 2-3, Salvador, Bahia, Brazil, 2006. 
-Ng L., Clark C., Huissoon J.P.
-[PDF]
+* A Decentralized Reinforcement Learning Controller for Collaborative Driving, Ng L., Clark C., Huissoon J.P., 1st IFAC Workshop on Multi-Vehicle Systems (MVS '06). Oct 2-3, Salvador, Bahia, Brazil, 2006. [PDF]
 
-* Cooperative Lane-Level Positioning Using Markov Localization,
-International IEEE Conference on Intelligent Transportation Systems, Sept 2006
-Dao, T.S., Leung, K., Clark, C., Huissoon, J.
-[PDF]
+* Cooperative Lane-Level Positioning Using Markov Localization, Dao, T.S., Leung, K., Clark, C., Huissoon, J., International IEEE Conference on Intelligent Transportation Systems, Sept 2006. [PDF]
 
-* Development of a Microscopic Traffic Simulator for Inter-Vehicle Communication Application Research
-International IEEE Conference on Intelligent Transportation Systems, September 2006.
-Leung, K., Dao, T.S., Clark, C., Huissoon, J.
-[PDF]
+* Development of a Microscopic Traffic Simulator for Inter-Vehicle Communication Application Research, Leung, K., Dao, T.S., Clark, C., Huissoon, J., International IEEE Conference on Intelligent Transportation Systems, September 2006. [PDF]
 
-* Geographic Information System Estimation Using Inter-Vehicle Communication
-The Mechatronics Forum Biennial International Conference, June 2006.
-Leung, K., Dao, T.S., Clark, C., Huissoon, J. 
-[PDF]
+* Geographic Information System Estimation Using Inter-Vehicle Communication, Leung, K., Dao, T.S., Clark, C., Huissoon, J., The Mechatronics Forum Biennial International Conference, June 2006. [PDF]
 
-* Software and Control Architecture Development of an Autonomous Vehicle
-ASME International Student Conference, May 2006. 
-Leung, K., Clark, C., Huissoon, J.
-[PDF]
+* Software and Control Architecture Development of an Autonomous Vehicle, Leung, K., Clark, C., Huissoon, J., ASME International Student Conference, May 2006. [PDF]
 
-* Modeling and Simulation of the VideoRay Pro III Underwater Vehicle
-OCEANS'06 Asia Pacific IEEE, May 2006.
-W. Wang, and C. M. Clark  
-[PDF]
+* Modeling and Simulation of the VideoRay Pro III Underwater Vehicle, W. Wang, and C. M. Clark, OCEANS'06 Asia Pacific IEEE, May 2006. [PDF]
 
-* Autonomous fish tracking by ROV using Monocular Camera
-3rd Canadian Conference on Computer and Robot Vision (CRV'06)
-J. Zhou, C. M. Clark
-[PDF]
+* Autonomous fish tracking by ROV using Monocular Camera, J. Zhou, C. M. Clark, 3rd Canadian Conference on Computer and Robot Vision (CRV'06). [PDF]
 
 #### 2005
-* Localization of Multiple Robots Equipped with Simple Sensors
-IEEE Conference on Mechatronics and Automation, 2005.
-Peasgood, M., Clark, C., and McPhee, J.  
-[PDF]
+* Localization of Multiple Robots Equipped with Simple Sensors, Peasgood, M., Clark, C., and McPhee, J., IEEE Conference on Mechatronics and Automation, 2005. [PDF]
 
-* Towards Gaussian Multi-Robot SLAM as Applied to Underwater Robotics
-International Symposium on Unmanned Untethered Submersible Technology (UUST), 2005. 
-Kroetsch, D. and Clark, C.
-[PDF]
+* Towards Gaussian Multi-Robot SLAM as Applied to Underwater Robotics, Kroetsch, D. and Clark, C., International Symposium on Unmanned Untethered Submersible Technology (UUST), 2005. [PDF]
 
 #### 2003
-* Motion Planning for Multi-Robot Systems using Dynamic Robot Networks,
-International Conference on Robotics and Automation, Taipei, Taiwan, May, 2003. 
-Clark, C., Rock, S. and Latombe, J.C. 
-[PDF]
+* Motion Planning for Multi-Robot Systems using Dynamic Robot Networks, Clark, C., Rock, S. and Latombe, J.C., International Conference on Robotics and Automation, Taipei, Taiwan, May, 2003. [PDF]
 
-* Using Dynamic Robot Networks for Motion Planning in Multi-Robot Space Systems
-7th International Symposium on Artificial Intelligence, Robotics and Automation in Space, May, 2003.
-Clark, C., Rock, S. and Latombe, J.C.
-[PDF]
+* Using Dynamic Robot Networks for Motion Planning in Multi-Robot Space Systems, Clark, C., Rock, S. and Latombe, J.C., 7th International Symposium on Artificial Intelligence, Robotics and Automation in Space, May, 2003. [PDF]
 
-* An Integrated System for Command and Control of Cooperative Robotic Systems
-11th International Conference on Advanced Robotics, June, 2003. 
-Clark, C., Frew, E. W., Jones, H.L., and Rock, S. M.
-[PDF]
+* An Integrated System for Command and Control of Cooperative Robotic Systems, Clark, C., Frew, E. W., Jones, H.L., and Rock, S. M., 11th International Conference on Advanced Robotics, June, 2003. [PDF]
 
 #### 2002
-* Applying Kinodynamic Randomized Motion Planning with a Dynamic Priority System to Multi-Robot Space Systems
-IEEE Aerospace Conference, March, 2002.
-Clark, C., Bretl, T., and Rock, S.
-[PDF]
+* Applying Kinodynamic Randomized Motion Planning with a Dynamic Priority System to Multi-Robot Space Systems, Clark, C., Bretl, T., and Rock, S., IEEE Aerospace Conference, March, 2002. [PDF]
 
-* Kinematic Path-planning for Formations of Mobile Robots with a Nonholonomic Constraint
-International Conference on Intelligent Robots and Systems, September, 2002. 
-Barfoot, T., Clark, C., Rock, S., and D'Eleuterio, G.
-[PDF]
+* Kinematic Path-planning for Formations of Mobile Robots with a Nonholonomic Constraint, Barfoot, T., Clark, C., Rock, S., and D'Eleuterio, G., International Conference on Intelligent Robots and Systems, September, 2002. [PDF]
 
 #### 2001
 * Randomized Motion Planning for Groups of Nonholonomic Robots, Clark, C., and Rock, S., International Symposium on Artificial Intelligence, Robotics, and Automation in Space, June 2001. [PDF]
@@ -428,23 +377,18 @@ Barfoot, T., Clark, C., Rock, S., and D'Eleuterio, G.
 
 * Comparison of Performance of Neural Network Controller Architectures: Error Back Propagation, Mixture of Expert, and 'Move' Neural Network Architectures on Industrial Robot Trajectory Following Tasks, Clark, C. and Mills, J.K., International Conference on Advanced Manufacturing Technology, June, 1999.
 
-
 #### 1998
 * Increasing Production of Robot Manipulators with Neural Networks, Clark, C. and Mills, J.K., CSME FORUM, May 1998.
-
 
 * Development of a Neural Network Module for Improving the Performance of a Commercial Robot, Chen, P.C.Y., Ogilvie, A., Clark, C., Zhou, K., Mills, J.K., World Automation Congress, May, 1998.
 
 
-
 ## Book Chapters
-
 #### 2018
 * Emerging technologies and application for studies of shark biology. In: J. Carrier, M. Heithaus, C. Simpfendorfer (eds.). Use of autonomous vehicles for tracking and surveying of acoustically tagged elasmobranchs. CRC Press. Lowe, C.G., C.F. White, C.M. Clark. 2018.
 
 
 ## Theses
-
 #### 2012
 * Decentralized and Complete Multi-Robot Motion Planning in Confined Spaces, Scobee, D.R. and Wiktor, A.T., Princeton University, B.S. Thesis, 2012. [PDF]
 
